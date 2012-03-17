@@ -1,10 +1,12 @@
-Friday, March 16th:
-
 "mate <file(s)>" to open files in textmate from terminal
 
 "find / -name whatever" to find file whatever in root
 
-NPM has good list of util code in src
+NPM has good list of javascript utility code in src
+	- find files in directory
+	- tar & package files together
+	
+git add -i : interactive staging
 
 /usr/ contains directories with most of installed code
 /usr/bin --> is contained in the path, therefore ln -s <whatever command> /usr/bin/command to make it exectuable
