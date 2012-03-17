@@ -1,0 +1,26 @@
+Friday, March 16th:
+
+"mate <file(s)>" to open files in textmate from terminal
+
+"find / -name whatever" to find file whatever in root
+
+NPM has good list of util code in src
+
+/usr/ contains directories with most of installed code
+/usr/bin --> is contained in the path, therefore ln -s <whatever command> /usr/bin/command to make it exectuable
+/usr/local/bin -- > also contained in path, executables from installed software here as well
+/usr/local/lib
+
+HomeBrew good Mac package installer
+"brew install <pckg>" i.e: brew install node
+
+to relaunch terminal bash, do : . ./bashrc
+
+"ssh-keygen -t rsa" to generate ssh keys, located in ~./ssh
+http://help.github.com/mac-set-up-git/
+
+xgrid : Apple parallel computing protocol, /usr/libexec/xgrid
+
+Forever start/stop/list <node application .js> | TODO !! figure out how to do with other apps as well
+
+Sparrow : great email client, specifically for gmail
