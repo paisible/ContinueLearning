@@ -10,6 +10,10 @@ git add -i : interactive staging
 
 /usr/ contains directories with most of installed code
 /usr/bin & /usr/local/bin --> is contained in the path, therefore ln -s <whatever command> /usr/bin/command to make it exectutable
+For more info : 
+"man hier" (wow)
+http://www.thegeekstuff.com/2010/09/linux-file-system-structure/
+http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
 
 
 HomeBrew good Mac package installer
