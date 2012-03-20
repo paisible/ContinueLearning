@@ -26,6 +26,14 @@ http://help.github.com/mac-set-up-git/
 
 xgrid : Apple parallel computing protocol, /usr/libexec/xgrid
 
-Forever start/stop/list <node application .js> | TODO !! figure out how to do with other apps as well
+Forever start/stop/list <application>
 
 Sparrow : great email client, specifically for gmail
+
+http://10.0.2.2 : to access localhost from windows VM in virtualbox (add to C:/Windows/systems32/drivers/etc/hosts)
+
+Can't find module in node : "npm list <module_name>" : resolve a module that was installed globally
+
+"regsvr32.exe <dll name>" / "regsvr32.exe /u <dll name>" : register / unregister dll in Windows
+
+
