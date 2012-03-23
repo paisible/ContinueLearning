@@ -40,6 +40,11 @@ or the path.
 
 "/Applications/Firefox.app/Contents/MacOS/firefox-bin -no-remote -P dev &" : launch Firefox with new profile 
 
+"zip -r zippy.zip [file / directory" : zips a file or directory, will create it in the directory that you 
+are executing the command in.
+
+Hudson : continuous deployment, full Git integration
+
 "depends.exe" : 
 Dependancy walker for Win, shows .DLL dependencies 
 lets you inspect DLLs, view functions inside (i.e : would have helped us see that function names were being overwritten, _rsa_encrypt@44 instead of rsa_encrypt).
