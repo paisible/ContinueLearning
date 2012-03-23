@@ -36,4 +36,13 @@ Can't find module in node : "npm list <module_name>" : resolve a module that was
 
 "regsvr32.exe <dll name>" / "regsvr32.exe /u <dll name>" : register / unregister dll in Windows
 
+"/Applications/Firefox.app/Contents/MacOS/firefox-bin -no-remote -P dev &" : launch Firefox with new profile 
+
+"depends.exe" : 
+Dependancy walker for Win, shows .DLL dependencies 
+lets you inspect DLLs, view functions inside (i.e : would have helped us see that function names were being overwritten, _rsa_encrypt@44 instead of rsa_encrypt).
+
+"notepad c:\windows\system32\pbcrypto.dll" : to view source of .DLL (directory in path, searched for global dlls);
+
+"sudo git reset --hard HEAD^" : if you pull wrong branch / repository, will put you back one commit before head
 
