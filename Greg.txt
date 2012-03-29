@@ -46,3 +46,12 @@ lets you inspect DLLs, view functions inside (i.e : would have helped us see tha
 
 "sudo git reset --hard HEAD^" : if you pull wrong branch / repository, will put you back one commit before head
 
+"git push origin +<branch_name>" : + forces push on branch 
+
+https://github.com/documentcloud/jammit/pull/80/files : pull request to add .jst files in correct order for Jammit
+
+sudo ln -sf ~/projects/lckr-ext-ie/* /Users/gwhiteside/Library/Application\ Support/Firefox/Profiles/g9jp8i90.test/extensions/\{69443e01-edae-4397-959c-bdf9e028ed19\}/chrome/content/widgets/com.foreveralive.myApp/
+
+http://dean.edwards.name/packer/ : cool javascript obfuscating
+
+"VBoxManage clonevdi /my/path/to/one.vdi /my/path/to/two.vdi" : to clone a .vdi
