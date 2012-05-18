@@ -63,4 +63,4 @@ http://dean.edwards.name/packer/ : cool javascript obfuscating
 
 "VBoxManage clonevdi /my/path/to/one.vdi /my/path/to/two.vdi" : to clone a .vdi
 
-Application.console.log
+Application.console.log -> alternative logging in Firefox (replaces alerts !)
