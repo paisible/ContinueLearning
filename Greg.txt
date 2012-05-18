@@ -62,3 +62,5 @@ sudo ln -sf ~/projects/lckr-ext-ie/* /Users/gwhiteside/Library/Application\ Supp
 http://dean.edwards.name/packer/ : cool javascript obfuscating
 
 "VBoxManage clonevdi /my/path/to/one.vdi /my/path/to/two.vdi" : to clone a .vdi
+
+Application.console.log
